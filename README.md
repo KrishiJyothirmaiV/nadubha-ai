@@ -123,34 +123,34 @@ These features provide productivity support and are not intended to diagnose or 
 ## 📸 NaDuBha AI — Application Preview
 
 ###  Productivity Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/Dashboard.PNG)
 
 ###  ADHD Support Hub
-![ADHD Support Hub](screenshots/ADHDSupportHub.png)
+![ADHD Support Hub](screenshots/ADHDSupportHub.PNG)
 
 ###  Habit Tracker
-![HabitTracker](screenshots/HabitTracker.png)
+![HabitTracker](screenshots/HabitTracker.PNG)
 
 ###  AI Productivity Coach
-![AICoach](screenshots/AICoach.png)
+![AICoach](screenshots/AICoach.PNG)
 
 ###  Smart Planner
-![SmartPlanner](screenshots/SmartPlanner.png)
+![SmartPlanner](screenshots/SmartPlanner.PNG)
 
 ###  Kanban Task Board
-![Kanban Board](screenshots/Kanban.png)
+![Kanban Board](screenshots/Kanban.PNG)
 
 ###  Focus Studio
-![Focus Studio](screenshots/FocusStudio.png)
+![Focus Studio](screenshots/FocusStudio.PNG)
 
 ###  Tasks
-![ Tasks ](screenshots/Tasks.png)
+![ Tasks ](screenshots/Tasks.PNG)
 
 ###  Wellness Journal
-![Wellness Journal](screenshots/WellnessJournal.png)
+![Wellness Journal](screenshots/WellnessJournal.PNG)
 
 ###  Analytics
-![Analytics](screenshots/AnalyticsPage.png)
+![Analytics](screenshots/AnalyticsPage.PNG)
 
 
   
