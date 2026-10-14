@@ -120,6 +120,40 @@ These features provide productivity support and are not intended to diagnose or 
 
 ---
 
+## 📸 NaDuBha AI — Application Preview
+
+###  Productivity Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+###  ADHD Support Hub
+![ADHD Support Hub](screenshots/ADHDSupportHub.png)
+
+###  Habit Tracker
+![HabitTracker](screenshots/HabitTracker.png)
+
+###  AI Productivity Coach
+![AICoach](screenshots/AICoach.png)
+
+###  Smart Planner
+![SmartPlanner](screenshots/SmartPlanner.png)
+
+###  Kanban Task Board
+![Kanban Board](screenshots/Kanban.png)
+
+###  Focus Studio
+![Focus Studio](screenshots/FocusStudio.png)
+
+###  Tasks
+![ Tasks ](screenshots/Tasks.png)
+
+###  Wellness Journal
+![Wellness Journal](screenshots/WellnessJournal.png)
+
+###  Analytics
+![Analytics](screenshots/AnalyticsPage.png)
+
+
+  
 ## 🏗️ System Architecture
 
 ```text
@@ -203,7 +237,7 @@ nadubha-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nadubha-ai.git
+git clone https://github.com/KrishiJyothirmaiV/nadubha-ai.git
 cd nadubha-ai
 ```
 
